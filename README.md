@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+## Url[Live Site](https://prefresh.github.io/PROFILE-CARD-COMPONENT/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
